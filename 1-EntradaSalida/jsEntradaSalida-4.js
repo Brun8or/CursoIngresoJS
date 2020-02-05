@@ -4,6 +4,17 @@
 */
 function mostrar()
 {
+	var nombre;
+
+	//nombre=document.getElementById('elNombre').value;
+	nombre=prompt("Por favor introduzca su nombre");
+	document.getElementById('elNombre').value;
+
+
+
+	alert("Su nombre es "+nombre+" cierto?");
+
+
 
 }
 
